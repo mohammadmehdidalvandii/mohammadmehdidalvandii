@@ -6,7 +6,7 @@
 <p>I'm a front end junior developer, I'm looking for progress and gaining new experiences ⚡</p>
 
 - 🌍 &nbsp; I'm based in Borujerd-Lorstan (IRAN)
-- 🧠 &nbsp; I'm learning NextJS
+- 🧠 &nbsp; I'm learning Tailwind
 - ✉️ &nbsp; You Can Contact Me  (mhmdmehdidalvandi@gmail.com)
 
 - <h2>🔧 &nbsp; Tech Stack</h2>
@@ -34,7 +34,6 @@
  <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/mohammadmehdidalvandii">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadmehdidalvandii&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmehdidalvandii" />
 </a>
 
