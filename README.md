@@ -3,7 +3,7 @@
 ---
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-<p>I'm a front end junior developer, I'm looking for progress and gaining new experiences ⚡</p>
+<p>I'm a front end developer, I'm looking for progress and gaining new experiences ⚡</p>
 
 - 🌍 &nbsp; I'm based in Borujerd-Lorstan (IRAN)
 - 🧠 &nbsp; I'm learning Create Extension 
