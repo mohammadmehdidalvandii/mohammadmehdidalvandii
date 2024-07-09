@@ -7,6 +7,7 @@
 
 - 🌍 &nbsp; I'm based in Borujerd-Lorstan (IRAN)
 - 🧠 &nbsp; I'm learning Create Extension 
+- 🧠 &nbsp; I'm learning Typescript
 - ✉️ &nbsp; You Can Contact Me  (mhmdmehdidalvandi@gmail.com)
 
 - <h2>🔧 &nbsp; Tech Stack</h2>
