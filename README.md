@@ -6,8 +6,7 @@
 <p>I'm a front end developer, I'm looking for progress and gaining new experiences ⚡</p>
 
 - 🌍 &nbsp; I'm based in Borujerd-Lorstan (IRAN)
-- 🧠 &nbsp; I'm learning Create Extension 
-- 🧠 &nbsp; I'm learning Typescript
+- 🧠 &nbsp; I'm learning Node.js
 - ✉️ &nbsp; You Can Contact Me  (mhmdmehdidalvandi@gmail.com)
 
 - <h2>🔧 &nbsp; Tech Stack</h2>
