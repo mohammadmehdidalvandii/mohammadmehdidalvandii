@@ -21,7 +21,10 @@
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> -
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -
   <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
+  <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/> -
+  <img alt="Node js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -
+  <img alt="Node js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff"> -
+
 
   
  - ⚙️ &nbsp;
@@ -36,6 +39,7 @@
 - 🌍 React-Query
 - 🌍 Formik
 - 🌍 Rechart
+- 🌍 Axios
 <br/>
 
  <h2>⚡️ &nbsp; Github Stats</h2>
