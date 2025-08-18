@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmehdidalvandii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmehdidalvandii" /> </p>
 
-- 🌱 I’m currently learning **Fastify**
+- 🌱 I’m currently learning **backend**
 
 - 👯 I’m looking to collaborate on **React-Next-Typescript**
 
