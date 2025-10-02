@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmehdidalvandii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmehdidalvandii" /> </p>
 
-- 🌱 I’m currently learning **Fastify**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **React-Next-Typescript**
 
-- 🤝 I’m looking for help with **Job - Frontend-developer**
+- 🤝 I’m looking for help with **Job - Frontend-developer or MernStack developer**
 
 - 💬 Ask me about **React-Next-Javscript-Typescript**
 
