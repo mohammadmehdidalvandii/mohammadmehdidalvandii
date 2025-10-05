@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React-Next-Typescript**
 
-- 🤝 I’m looking for help with **Job - Job - Frontend-developer or MernStack developer**
+- 🤝 I’m looking for help with **Job -  Frontend-developer or MernStack developer**
 
 - 💬 Ask me about **React-Next-Javscript-Typescript**
 
