@@ -1,13 +1,13 @@
-[<h1 align="center">Hi 👋, I'm Mohammadmehdi dalvandi</h1>
+<h1 align="center">Hi 👋, I'm Mohammadmehdi dalvandi</h1>
 <h3 align="center">A passionate Mern Stack developer from iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmehdidalvandii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmehdidalvandii" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 Currently learning **AI Engineering, Context Engineering, and LLM-powered application development**.
 
 - 👯 I’m looking to collaborate on **React-Next-Typescript**
 
-- 🤝 I’m looking for help with **Job -  Frontend-developer or MernStack developer**
+- 💼 Available for Frontend Developer positions.
 
 - 💬 Ask me about **React-Next-Javscript-Typescript**
 
