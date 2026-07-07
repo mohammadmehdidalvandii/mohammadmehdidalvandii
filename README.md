@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React-Next-Typescript**
 
-- 💼 Available for Frontend Developer positions.
+- 💼 Available for Frontend Developer or Backned Developer positions.
 
 - 💬 Ask me about **React-Next-Javscript-Typescript**
 
